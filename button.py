@@ -1,4 +1,3 @@
-import pygame
 import pygame.font
 
 class Button():
@@ -28,7 +27,6 @@ class Button():
         
     def draw_button(self):
         #Desenha um botão em branco e, em seguida, desenha a mensagem
-        print('erro')
         self.screen.fill(self.button_color, self.rect)
         self.screen.blit(self.msg_image, self.msg_image_rect)
                          
