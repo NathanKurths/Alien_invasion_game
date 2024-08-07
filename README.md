@@ -1,3 +1,5 @@
-To test, download the entire repository and run the alien_invasion.py file
+To play, download the entire repository and run the alien_invasion.py file
 
-(Game in production)
+INSTRUCTIONS:
+  SPACE BAR -> SHOOT
+  KEYBOARD ARROWS -> LEFT AND RIGHT TO MOVE
