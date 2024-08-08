@@ -1,4 +1,6 @@
  GUIDANCE:
+ 
+Attention: You must have python installed on your machine and probably other pending issues that the interpreter will notify you of
 
 To play, download the entire repository and run the alien_invasion.py file
 
@@ -17,3 +19,4 @@ SPACE BAR -> SHOOT
 KEYBOARD ARROWS -> LEFT AND RIGHT TO MOVE
 
 Q -> CLOSE THE GAME
+
