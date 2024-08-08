@@ -1,8 +1,6 @@
  GUIDANCE:
  
-Attention: You must have python installed on your machine and probably other pending issues that the interpreter will notify you of
-
-To play, download the entire repository and run the alien_invasion.py file
+To play, download the entire repository and run the alien_invasion.py file and you must have python installed on your machine and probably other pending issues that the interpreter will notify you of
 
 You will have three additional ships to survive, at the top center of the screen is the match points record and at the top right is your current score.
 
